@@ -1,0 +1,32 @@
+/* Created by: Brayden MacMillan
+* Created on: April 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit4-03-PHP-Movie
+*/
+
+body {
+	background-color: rgb(179, 169, 229)
+}
+
+h1 {
+	background-color: rgb(224, 26, 66);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #e4e2d7;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #f056b8;
+	font-size: 20px;
+}
